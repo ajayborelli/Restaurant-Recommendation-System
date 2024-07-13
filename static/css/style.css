@@ -1,0 +1,33 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #f5f5f5;
+  font-weight: 600;
+  background-color: #1e1e1e;
+  margin: 0;
+  padding: 0;
+}
+
+.jumbotron {
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5877c8d959cc68088d493a35/1611787385983-5RG1ZGF4PSFQ97JT3PYZ/Lower+Banner.png?format=2500w');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: #ff6347;
+  padding: 100px 20px;
+  margin: 0;
+}
+
+.jumbotron h1,
+.jumbotron p {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.jumbotron h1 {
+  font-size: 3em;
+  font-weight: 700;
+}
+
+.jumbotron p {
+  font-size: 1.2em;
+}
